@@ -1,10 +1,19 @@
 - 👋 Hi, I’m @Mateus-Oliveira-Valle
-- 👀 I’m interested in  aprender novas linguagens.
-- 🌱 I’m currently learning  HTML e CSS.
-- 💞️ I’m looking to collaborate em projetoes interessantes e desafiadores em que posso me desenvolver.
-- 📫 How to reach me  gmail:mateusoliveiravalle007@gmail.com
+- 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mateus-oliveira-valle&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Mateus-Oliveira-valle&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mateus-oliveira-valle&show_icons=true" />
+</picture>
 
-<!---
-Mateus-Oliveira-Valle/Mateus-Oliveira-Valle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="www.linkedin.com/in/mateus-de-oliveira-valle-01294a257" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  
+</div>
