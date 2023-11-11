@@ -13,10 +13,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-###
+
 <a href="https://github.com/mateus-oliveira-valle/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mateus-oliveira-valle&&show_icons=true&theme=tokyonight&layout=compact&langs_count=8&card_width=300" />
-##
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mateus-oliveira-valle/mateus-oliveira-valle/output/github-contribution-grid-snake-dark.svg">
